@@ -2,6 +2,8 @@
 ![logo](https://user-images.githubusercontent.com/112700266/216047013-9ceb1ada-b22e-4c50-b397-c538861a2346.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![0_MNVJq_8e0SJoqZb5](https://user-images.githubusercontent.com/112700266/216048632-29600b30-4cbc-4a6a-8c61-22e24c22060d.jpg)
+
 
 ➔Usar o Node para montar um código que vai receber uma lista de propriedades de CSS (ex: background-color, font-size, text-align) e vai devolver essa lista ordenada de A-Z. Ordenar o CSS facilita a encontrar mais rápido a propriedade que precisamos alterar.
 
