@@ -6,7 +6,9 @@ O código deve rodar em um laço que vai receber propriedades até a pessoa digi
 Como Utilziar o Código e Fazer Ele Funcionar?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Npm init (para iniciar o node).
+
 Npm install readline-sync (instalando o pacote readline para pegar inputs no terminal).
+
 Node ./index.js (rodando o codigo).
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Demonstração do projeto:
