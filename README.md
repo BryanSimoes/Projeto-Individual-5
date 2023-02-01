@@ -9,8 +9,8 @@ Npm init (para iniciar o node).
 
 Npm install readline-sync (instalando o pacote readline para pegar inputs no terminal).
 
-Node ./index.js (rodando o codigo).
+Node ./index.js (Rodando o Código)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Demonstração do projeto:
-![print](https://user-images.githubusercontent.com/112700266/216044865-9d8f9ac3-ad79-4a6a-9900-ff0f5be91b54.png)
+Demostração Do Projeto:![print](https://user-images.githubusercontent.com/112700266/216044865-9d8f9ac3-ad79-4a6a-9900-ff0f5be91b54.png)
 
