@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000f&size=40&center=true&vCenter=true&width=1000&lines=++módulo_5+Projeto+individual+)](https://git.io/typing-svg)
-Projeto Individual do Modulo 5 do Resilia
+![logo](https://user-images.githubusercontent.com/112700266/216047013-9ceb1ada-b22e-4c50-b397-c538861a2346.png)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ➔Usar o Node para montar um código que vai receber uma lista de propriedades de CSS (ex: background-color, font-size, text-align) e vai devolver essa lista ordenada de A-Z. Ordenar o CSS facilita a encontrar mais rápido a propriedade que precisamos alterar.
