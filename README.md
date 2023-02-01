@@ -9,3 +9,5 @@ Npm install readline-sync (instalando o pacote readline para pegar inputs no ter
 Node ./index.js (rodando o codigo).
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Demonstração do projeto:
+![print](https://user-images.githubusercontent.com/112700266/216044865-9d8f9ac3-ad79-4a6a-9900-ff0f5be91b54.png)
+
